@@ -13,9 +13,9 @@
   3. 使用mongodb存储用户信息；
   4. 使用cookie/session做浏览器状态记录
 
-#启动项目
+## 启动项目
+
 ```shell
-cd tz44js-blog
 npm i
 mongod --dbpath database/db
 node app
